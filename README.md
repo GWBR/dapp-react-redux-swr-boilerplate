@@ -2,6 +2,8 @@
 
 This project was created as a boilerplate for a DAPP on the ethereum blockchain.
 
+![dApp Demo](src/assets/dAppShowcase.gif)
+
 ## About The Project
 
 ### Built With
